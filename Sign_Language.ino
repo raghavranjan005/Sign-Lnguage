@@ -27,7 +27,6 @@ flexposition3 = analogRead(flexpin3);
  
   if(flexposition1<=820 && flexposition2>=900 && flexposition3>=920)
   Serial.print("I ");
-  
   if(flexposition1>=820 && flexposition2<=900 && flexposition3<=920)
   Serial.print("LOVE ");
   if(flexposition1<=820 && flexposition2>=900 && flexposition3<=920)
