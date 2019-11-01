@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: {Sign Language}
 
 Arduino based project on Sign language to text conversion using flex sensors
 
