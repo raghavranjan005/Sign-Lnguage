@@ -1,0 +1,116 @@
+straight
+
+sensor1: 897
+sensor2: 887
+sensor3: 868
+sensor4: 816
+sensor5: 792
+
+sensor1: 898
+sensor2: 884
+sensor3: 868
+sensor4: 817
+sensor5: 789
+
+sensor1: 896
+sensor2: 885
+sensor3: 870
+sensor4: 817
+sensor5: 790
+
+sensor1: 897
+sensor2: 887
+sensor3: 872
+sensor4: 815
+sensor5: 787
+
+sensor1: 897
+sensor2: 886
+sensor3: 869
+sensor4: 815
+sensor5: 790
+
+sensor1: 897
+sensor2: 885
+sensor3: 870
+sensor4: 814
+sensor5: 790
+
+sensor1: 899
+sensor2: 887
+sensor3: 868
+sensor4: 817
+sensor5: 793
+
+sensor1: 897
+sensor2: 886
+sensor3: 870
+sensor4: 815
+sensor5: 796
+
+
+
+
+half
+sensor1: 794
+sensor2: 813
+sensor3: 732
+sensor4: 570
+sensor5: 648
+
+sensor1: 786
+sensor2: 817
+sensor3: 732
+sensor4: 576
+sensor5: 653
+
+sensor1: 791
+sensor2: 816
+sensor3: 734
+sensor4: 585
+sensor5: 659
+
+sensor1: 788
+sensor2: 820
+sensor3: 740
+sensor4: 586
+sensor5: 661
+
+sensor1: 791
+sensor2: 821
+sensor3: 741
+sensor4: 584
+sensor5: 664
+
+
+full
+sensor1: 694
+sensor2: 802
+sensor3: 692
+sensor4: 520
+sensor5: 603
+
+sensor1: 699
+sensor2: 805
+sensor3: 698
+sensor4: 519
+sensor5: 605
+
+sensor1: 702
+sensor2: 806
+sensor3: 698
+sensor4: 533
+sensor5: 606
+
+sensor1: 701
+sensor2: 805
+sensor3: 704
+sensor4: 544
+sensor5: 616
+
+sensor1: 708
+sensor2: 807
+sensor3: 705
+sensor4: 540
+sensor5: 619
+
