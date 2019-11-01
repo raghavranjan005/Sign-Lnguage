@@ -1,0 +1,653 @@
+A
+sensor1   sensor2   sensor3   sensor4   sensor5
+655       797       717      537       804
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+659       799       722      543       801
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+641       794       722      544       802
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+644       795       726      553       803
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+643       793       726      553       805
+
+
+
+B
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+901       886       874      824       648
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+900       887       871      824       653
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+898       886       871      822       651
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+899       886       873      824       655
+
+
+C
+
+esensor1   sensor2   sensor3   sensor4   sensor5
+836       859       781      685       693
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+835       855       785      684       690
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+838       856       779      686       695
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+836       857       786      682       688
+
+
+
+
+D
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+653       784       653      840       663
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+656       789       652      843       665
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+658       785       648      842       664
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+651       786       652      845       665
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+665       789       654      842       663
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+664       787       655      843       661
+
+
+
+
+E
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+646       806       756      606       641
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+646       811       747      606       644
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+658       821       772      604       633
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+663       815       751      599       616
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+660       815       748      599       628
+
+
+
+
+F
+
+enensor1   sensor2   sensor3   sensor4   sensor5
+897       889       882      553       641
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+898       890       881      549       640
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+898       889       881      554       642
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+897       889       879      553       645
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+899       887       878      553       642
+
+
+
+
+G
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+688       795       697      833       777
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+690       792       700      835       778
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+689       796       699      837       780
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+692       795       700      833       776
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+694       798       704      838       774
+
+
+
+H
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+735       815       883      829       656
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+737       811       881      830       658
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+733       813       881      828       651
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+737       816       880      831       657
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+736       814       869      831       659
+
+
+
+I
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+891       808       694      559       669
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       808       695      562       668
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       807       694      564       670
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       808       699      565       670
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+889       807       698      566       674
+
+
+J***
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       822       714      568       689
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+889       822       716      567       695
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+890       823       717      575       698
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+889       822       716      575       702
+
+
+K
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+688       807       879      828       647
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+690       805       878      824       653
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+691       807       877      821       655
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+697       809       882      819       655
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+692       809       882      821       658
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+695       809       882      817       661
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+697       809       892      816       665
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+696       810       882      817       668
+
+
+
+L
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+689       813       678      841       797
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+675       809       674      840       794
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+681       811       682      841       794
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+686       808       682      840       791
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+690       809       682      840       793
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+689       805       685      841       790
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+689       811       685      839       788
+
+
+M****
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+670       821       760      570       622
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+673       819       762      601       635
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+675       821       762      597       636
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+673       824       763      601       638
+
+
+
+N
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+702       805       752      589       696
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+709       806       750      585       694
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+707       806       756      592       698
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+712       808       754      594       695
+
+
+
+
+O
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+750       832       766      593       661
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+755       839       768      595       660
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+765       839       769      597       667
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+766       840       774      599       665
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+765       839       772      595       665
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+764       840       771      598       666
+
+
+
+
+P***
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+708       809       844      841       769
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+707       811       845      842       768
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+712       816       846      842       765
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+710       814       848      840       765
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+714       816       845      838       763
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+712       812       846      840       763
+
+
+Q
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+650       799       699      648       684
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+648       801       706      649       685
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+648       801       701      653       683
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+651       799       702      652       684
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+655       803       705      655       683
+
+
+
+R
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+677       818       858      861       779
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+677       816       860      862       775
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+682       814       857      860       767
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+680       819       854      859       768
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+683       823       860      861       764
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+680       818       855      860       764
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+683       819       855      857       767
+
+
+
+
+S
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+623       797       698      495       659
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+624       795       699      497       659
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+626       797       699      498       660
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+627       796       701      507       663
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+635       795       701      506       663
+
+
+
+T
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+641       796       712      644       754
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+638       798       714      647       756
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+647       798       714      650       758
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+642       799       718      647       758
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+643       800       715      649       759
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+649       800       717      653       760
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+651       796       717      652       762
+
+
+
+
+U
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+723       817       885      838       757
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+721       821       885      839       755
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+729       818       885      838       757
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+725       826       886      836       753
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+724       818       883      838       755
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+724       817       883      840       752
+
+
+
+V
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+734       814       885      830       763
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+733       815       886      828       760
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+737       818       884      829       763
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+729       818       887      826       757
+
+
+
+W  >
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+675       890       882      824       699
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+675       886       881      827       700
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+679       885       881      823       698
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+670       887       882      825       682
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+680       889       881      826       691
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+686       885       884      825       696
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+682       887       884      826       695
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+689       887       883      823       694
+
+
+X
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+672       797       692      695       621
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+667       797       695      701       620
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+671       798       701      688       624
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+670       802       703      680       620
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+675       803       702      683       626
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+676       798       705      665       627
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+677       803       711      679       623
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+672       800       710      677       626
+
+
+
+
+Y
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       808       729      523       784
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+895       803       732      535       785
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+896       808       730      532       787
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       808       729      534       786
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+892       804       728      541       788
+
+
+sensor1   sensor2   sensor3   sensor4   sensor5
+895       805       731      535       785
+
+
+
+
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
